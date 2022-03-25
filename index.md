@@ -8,7 +8,7 @@ The initiative is developing an experimental protocol and engaging with modellin
 groups from around the world to run this common set of experiments using a variety
 of coupled climate and ocean-only models.
 
-Data from this international multi-model ensemble will be shared for analyis, and
+Data from this international multi-model ensemble will be shared for analysis, and
 synthesized into a series of publications. Further
 information will be made available here as the
 initiative progresses.
