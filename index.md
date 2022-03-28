@@ -23,7 +23,7 @@ Contact
 
 Links and references
 --------------------
-
+- [SOFIA data access](./data-access.html)
 - [SOFIA github](https://github.com/sofiamip)
 
 
