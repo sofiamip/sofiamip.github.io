@@ -17,7 +17,7 @@ initiative progresses.
 The initiative was started by the 
 [CliC/CLIVAR/SCAR Southern Ocean Regional Panel](https://www.clivar.org/clivar-panels/southern).
 
-Contact:
+Contact
 -------
 
 
