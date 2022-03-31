@@ -19,7 +19,8 @@ The initiative was started by the
 
 Contact
 -------
-
+Get in touch via email: 
+mail.sofiamip [at] gmail [dot] com
 
 Links and references
 --------------------
