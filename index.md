@@ -11,7 +11,8 @@ input, and in particular the model uncertainty.
 The initiative has developed an experimental protocol and is engaging with modelling
 groups from around the world to run this common set of experiments using a variety
 of coupled climate and ocean-only models. Data from this international multi-model
-ensemble is [openly shared](./data-access.html) for analysis, and synthesized into a series of publications. 
+ensemble is [openly shared](./data-access.html) for analysis, and is being 
+synthesized into a series of publications by SOFIA participants. 
 
 
 The initiative was started by the 
