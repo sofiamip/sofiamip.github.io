@@ -1,3 +1,7 @@
+# News:
+
+- [Feb 2023] The SOFIA experiment protocol paper has been submitted to GMD. A link to the preprint will be posted soon.
+
 # Description
 
 The Southern Ocean Freshwater release model experiments Initiative (SOFIA) aims
@@ -17,6 +21,12 @@ initiative progresses.
 The initiative was started by the 
 [CliC/CLIVAR/SCAR Southern Ocean Regional Panel](https://www.clivar.org/clivar-panels/southern).
 
+# Organization
+
+The SOFIA team is made up of a collection of interested scientists. We always welcome participation from additional members and models. 
+The team has an active slack workspace, and we meet on every second Tuesday of the month via zoom at 12 pm UTC. Get in touch
+for details!
+
 Contact
 -------
 Get in touch via email: 
@@ -25,6 +35,8 @@ mail.sofiamip [at] gmail [dot] com
 Links and references
 --------------------
 - [SOFIA data access](./data-access.html)
+- [Participating models](./participating-models.html)
+- [SOFIA scientific contributions](./contributions.html)
 - [SOFIA github](https://github.com/sofiamip)
 
 
