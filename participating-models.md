@@ -10,5 +10,7 @@ The following is the current list of models that have completed the `antwater` e
 |          | GFDL-CM4         | Stephen Griffies |
 |          |  GFDL-ESM4       | Stephen Griffies |
 |          | GISS-E2-1-G      | Qian Li |
+|          | HadGEM3-GC3.1-LL | Max Thomas  |
+|          | NorESM2-MM        | Tore Hattermann | 
 |          |                   |           |
 | Ocean    | MOM5             | Riccardo Farneti |
