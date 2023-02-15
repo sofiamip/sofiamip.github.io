@@ -23,7 +23,7 @@ The initiative was started by the
 
 # Organization
 
-The SOFIA team is made up of a collection of interested scientists. We always welcome participation from additional members and models. 
+The SOFIA team is made up of a collection of about 20 interested scientists. We always welcome participation from additional members and models. 
 The team has an active slack workspace, and we meet on every second Tuesday of the month via zoom at 12 pm UTC. Get in touch
 for details!
 
