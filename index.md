@@ -31,6 +31,7 @@ mail.sofiamip [at] gmail [dot] com
 
 Links and references
 --------------------
+- [SOFIA GMD paper preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/)
 - [SOFIA data access](./data-access.html)
 - [Participating models](./participating-models.html)
 - [SOFIA scientific contributions](./contributions.html)
