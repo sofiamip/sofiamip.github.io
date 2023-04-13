@@ -1,6 +1,6 @@
 # News:
 
-- [Feb 2023] The SOFIA experiment protocol paper has been submitted to GMD. A link to the preprint will be posted soon.
+- [Feb 2023] The SOFIA experiment protocol pre-print is live on [EGUsphere](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/)
 
 # Description
 
