@@ -1,6 +1,7 @@
-# News:
+# SOFIA:
 
-- [Feb 2023] The SOFIA experiment protocol pre-print is live on [EGUsphere](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/)
+## News
+- [April 2023] The SOFIA experiment protocol pre-print is live on [EGUsphere](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/)
 
 # Description
 
