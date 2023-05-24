@@ -6,7 +6,7 @@ Common archive
 
 A common archive of participating model data is being maintained. Each modelling group may in addition post data via their own channels. 
 
-Downloads from the common archive are via `ftp`: [ftp://ftp.cccma.ec.gc.ca/pub/CCCMA/SOFIA/](ftp://ftp.cccma.ec.gc.ca/pub/CCCMA/SOFIA/)
+Downloads from the common archive are via `ftp`: [ftp://ftp.cccma.ec.gc.ca/pub/CCCMA/SOFIA/](ftp://ftp.cccma.ec.gc.ca/pub/CCCMA/SOFIA/) or via `http`: [http://crd-data-donnees-rdc.ec.gc.ca/CCCMA/SOFIA](http://crd-data-donnees-rdc.ec.gc.ca/CCCMA/SOFIA)
 
 See the README files underneath each model for license considerations and links to upstream model data repositories (where available).
 
