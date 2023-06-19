@@ -36,6 +36,6 @@ Links and references
 - [SOFIA data access](./data-access.html)
 - [Participating models](./participating-models.html)
 - [SOFIA scientific contributions](./contributions.html)
-- [SOFIA github](https://github.com/sofiamip) (For access to private repos, login and request access to the project or email us) 
+- [SOFIA github](https://github.com/sofiamip) (Some repos are public, others with possibly sensitive info are private. For access to private repos, login and request access to the project or email us) 
 
 
