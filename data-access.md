@@ -1,6 +1,14 @@
 SOFIA data access
 =================
 
+Data usage policy
+------------------
+
+Significant effort has been invested by the SOFIA team to design the experiments, the modellers to run the experiments, and by the project members to house the data in an open common archive. These efforts should be recognized by anyone intending to utilize the data. We request that the [experimental design paper](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/) should be cited whenever the SOFIA data is used in publication. We also request that users of the data contact us (mail.sofiamip [at] gmail [dot] com) for input on appropriate use of the data and attribution, as well as collaboration on addressing scientific questions, possibly including the data producers as co-authors where appropriate. 
+
+The paper citation is:
+
+
 Common archive
 --------------
 
