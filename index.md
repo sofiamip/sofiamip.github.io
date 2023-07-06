@@ -37,5 +37,5 @@ Links and references
 - [Participating models](./participating-models.html)
 - [SOFIA scientific contributions](./contributions.html)
 - [SOFIA github](https://github.com/sofiamip) (Some repos are public, others with possibly sensitive info are private. For access to private repos, login and request access to the project or email us) 
-
+- [CLIVAR SOFIA webpage](https://www.clivar.org/sofia)
 
