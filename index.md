@@ -5,7 +5,7 @@
 
 # Description
 
-The Southern Ocean Freshwater release model experiments Initiative (SOFIA) aims
+The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative aims
 to improve our understanding of the simulated response to Antarctic freshwater
 input, and in particular the model uncertainty. 
 
