@@ -1,6 +1,8 @@
 # SOFIA:
 
 ## News
+- [October 2023] SOFIA has been sumitted to participate as [CMIP7 community MIP](https://wcrp-cmip.org/model-intercomparison-projects-mips/#registered-mips): 
+- [October 2023] The [SOFIA experiment protocol](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/) is now accepted at GMD. Modellers are starting tier 2 experiments.
 - [April 2023] The SOFIA experiment protocol pre-print is live on [EGUsphere](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-198/)
 
 # Description
