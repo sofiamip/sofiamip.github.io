@@ -19,7 +19,7 @@ synthesized into a series of publications by SOFIA participants.
 
 
 The initiative was started by the 
-[CliC/CLIVAR/SCAR Southern Ocean Regional Panel](https://www.clivar.org/clivar-panels/southern).
+[CliC/CLIVAR/SCAR Southern Ocean Regional Panel](https://www.clivar.org/clivar-panels/southern), is endorsed as a [CLIVAR task team](https://www.clivar.org/sofia), and has been submitted as a [community MIP to CMIP7](https://wcrp-cmip.org/model-intercomparison-projects-mips/#registered-mips).
 
 # Organization
 
