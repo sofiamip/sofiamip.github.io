@@ -18,5 +18,8 @@
   - Martin, T., J. Rhein, M. Ödalen, and M. Zeller, Spatial distribution of Antarctic meltwater governs Southern Ocean deep convection and shelf warming feedback (poster, [abstract](https://doi.org/10.5194/egusphere-egu24-12570))
 
 - OSM 2024
+  - ???
 
 - IUGG 2023
+  - Swart, N., and T. Martin, The climate response to Antarctic meltwater in a multi-model ensemble (oral, [abstract](https://c-in.floq.live/event/iugg2023berlin/daily_program_iapso?objectClass=timeslot&objectId=649483f664c73802ac74542d&type=detail))
+  - ???
