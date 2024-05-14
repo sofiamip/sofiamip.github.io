@@ -1,10 +1,13 @@
 # SOFIA scientific contributions
 
 ### Peer-reviewed publications using SOFIA model output
+<!---
+no default syntax, simply copy-paste the "how-to-cite" line from the publication:
+-->
 
--  Swart, N., Martin, T., Beadling, R., Chen, J.-J., England, M. H., Farneti, R., Griffies, S. M., Hatterman, T., Haumann, F. A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M.: The Southern Ocean Freshwater release model experiments Initiative (SOFIA): Scientific objectives and experimental design, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-198, 2023.
+- Swart, N. C., Martin, T., Beadling, R., Chen, J.-J., Danek, C., England, M. H., Farneti, R., Griffies, S. M., Hattermann, T., Hauck, J., Haumann, F. A., Jüling, A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M.: The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design, Geosci. Model Dev., 16, 7289–7309, https://doi.org/10.5194/gmd-16-7289-2023, 2023.
 
--  Jia-Jia Chen, Neil C. Swart, Rebecca Beadling, Xuhua Cheng, Tore Hattermann, Qian Li, John Marshall, Torge Martin, Morven Muilwijk, Andrew G. Pauling, Ariaan Purich, Inga J. Smith, and Max Thomas: Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. In prep.
+- Chen, J.-J., Swart, N. C., Beadling, R., Cheng, X., Hattermann, T., Jüling, A., et al. (2023). Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. Geophysical Research Letters, 50, e2023GL106492. https://doi.org/10.1029/2023GL106492
 
 
 
