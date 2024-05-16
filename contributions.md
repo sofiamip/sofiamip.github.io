@@ -13,16 +13,21 @@ no default syntax, simply copy-paste the "how-to-cite" line from the publication
 
 ### SOFIA contributions to international conferences and workshops
 
-- EGU 2024
-  - Pauling, A., N. Swart, T. Martin, R. Beadling, J.-J. Chen, et al., Sea ice and climate impacts from Antarctic ice-mass loss in the SOFIA multi-model ensemble (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-12592))
-  - Xu, X., T. Martin and R. Beadling, On the atmospheric response to idealized freshwater input around Antarctica (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-894))
-  - Jüling, A., E. Lambert, P. Le Sager, and S. Drijfhout, Response of EC-Earth3 to Antarctic meltwater (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-17841))
-  - Farneti, R., Southern Ocean response and sensitivity to idealized freshwater perturbation experiments (poster, [abstract](https://doi.org/10.5194/egusphere-egu24-17598))
-  - Martin, T., J. Rhein, M. Ödalen, and M. Zeller, Spatial distribution of Antarctic meltwater governs Southern Ocean deep convection and shelf warming feedback (poster, [abstract](https://doi.org/10.5194/egusphere-egu24-12570))
+- EGU 2024, Vienna, Austria
+  - **Pauling, A.G.**, N. Swart, T. Martin, R. Beadling, J.-J. Chen, et al., Sea ice and climate impacts from Antarctic ice-mass loss in the SOFIA multi-model ensemble (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-12592))
+  - **Xu, X.**, T. Martin and R. Beadling, On the atmospheric response to idealized freshwater input around Antarctica (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-894))
+  - **Jüling, A.**, E. Lambert, P. Le Sager, and S. Drijfhout, Response of EC-Earth3 to Antarctic meltwater (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-17841))
+  - **Farneti, R.**, Southern Ocean response and sensitivity to idealized freshwater perturbation experiments (poster, [abstract](https://doi.org/10.5194/egusphere-egu24-17598))
+  - **Martin, T.**, J. Rhein, M. Ödalen, and M. Zeller, Spatial distribution of Antarctic meltwater governs Southern Ocean deep convection and shelf warming feedback (poster, [abstract](https://doi.org/10.5194/egusphere-egu24-12570))
 
-- OSM 2024
+- OSM 2024, New Orleans, USA
   - ???
 
-- IUGG 2023
-  - Swart, N., and T. Martin, The climate response to Antarctic meltwater in a multi-model ensemble (oral, [abstract](https://c-in.floq.live/event/iugg2023berlin/daily_program_iapso?objectClass=timeslot&objectId=649483f664c73802ac74542d&type=detail))
-  - ???
+- IUGG 2023, Berlin, Germany
+  - **Swart, N.**, and T. Martin, The climate response to Antarctic meltwater in a multi-model ensemble (verbal, [abstract](https://c-in.floq.live/event/iugg2023berlin/daily_program_iapso?objectClass=timeslot&objectId=649483f664c73802ac74542d&type=detail))
+  - Pauling, A.G., M. Thomas, **I.J. Smith**, J.K. Ridley, and T. Martin, Impact of Antarctic Ice-mass loss on sea ice and climate in a multi-model experiment (verbal)
+  - **Smith, I.J.**, A.G. Pauling, C.M. Bitz, K. Lilly, P. Langhorne, and C.L. Hulbe, Antarctic sea ice area response to freshwater under past and future greenhouse gas scenarios (verbal)
+ 
+- IGS sea ice symposium 2023, Bremerhaven, Germnay
+  - **Pauling, A.G.**, M. Thomas, I.J. Smith, J.K. Ridley, and T. Martin, Sea ice and climate impacts from Antarctic ice-mass loss in a multi-model experiment. Verbal presentation (verbal)
+  - **Thomas, M.**, J. Ridley, I.J. Smith, D.P. Stevens, P.R. Holland, and S. Mackie, Future response of Antarctic continental shelf properties to ice sheet melting and calving (verbal)
