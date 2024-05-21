@@ -2,16 +2,25 @@
 
 ### Peer-reviewed publications using SOFIA model output
 <!---
-no default syntax, simply copy-paste the "how-to-cite" line from the publication:
+* add new items to top of lists so that most recent activity is seen first
+* no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
 
-- Swart, N. C., Martin, T., Beadling, R., Chen, J.-J., Danek, C., England, M. H., Farneti, R., Griffies, S. M., Hattermann, T., Hauck, J., Haumann, F. A., Jüling, A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M.: The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design, Geosci. Model Dev., 16, 7289–7309, https://doi.org/10.5194/gmd-16-7289-2023, 2023.
-
 - Chen, J.-J., Swart, N. C., Beadling, R., Cheng, X., Hattermann, T., Jüling, A., et al. (2023). Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. Geophysical Research Letters, 50, e2023GL106492. https://doi.org/10.1029/2023GL106492
+
+- Swart, N. C., Martin, T., Beadling, R., Chen, J.-J., Danek, C., England, M. H., Farneti, R., Griffies, S. M., Hattermann, T., Hauck, J., Haumann, F. A., Jüling, A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M.: The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design, Geosci. Model Dev., 16, 7289–7309, https://doi.org/10.5194/gmd-16-7289-2023, 2023.
 
 
 
 ### SOFIA contributions to international conferences and workshops
+
+<!---
+- FRISP 2024, Bremerhaven, Germany
+  - Hatterman, T., ???
+-->    
+
+- Norwegian Antarctic Seminar, Tromso, Norway (May 2024)
+  - **Muilwijk, M.**, Regional Ocean Responses to Coordinated Multi-Model Meltwater Perturbation Experiments: Insights from the SOFIA Initiative (verbal, [abstract](https://tryggve.npolar.no/WEB/Arrangementer/Antarktisseminaret-2024-book-of-abstracts.pdf))
 
 - EGU 2024, Vienna, Austria
   - **Pauling, A.G.**, N. Swart, T. Martin, R. Beadling, J.-J. Chen, et al., Sea ice and climate impacts from Antarctic ice-mass loss in the SOFIA multi-model ensemble (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-12592))
@@ -31,3 +40,6 @@ no default syntax, simply copy-paste the "how-to-cite" line from the publication
 - IGS sea ice symposium 2023, Bremerhaven, Germnay
   - **Pauling, A.G.**, M. Thomas, I.J. Smith, J.K. Ridley, and T. Martin, Sea ice and climate impacts from Antarctic ice-mass loss in a multi-model experiment. Verbal presentation (verbal)
   - **Thomas, M.**, J. Ridley, I.J. Smith, D.P. Stevens, P.R. Holland, and S. Mackie, Future response of Antarctic continental shelf properties to ice sheet melting and calving (verbal)
+
+- FRISP 2023, Stalheim, Norway
+  - **Smith, I.**, From observations to climate modelling: what is the influence of ice shelves on sea ice and climate? (verbal)
