@@ -6,6 +6,8 @@
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
 
+- Pauling, A. G., Smith, I. J., Ridley, J. K., Martin, T., Thomas, M., and Stevens, D. P. (2025). Impacts of Antarctic ice mass loss on New Zealand climate. Geophysical Research Letters, 52, e2024GL111047. https://doi.org/10.1029/2024GL111047
+
 - Chen, J.-J., Swart, N. C., Beadling, R., Cheng, X., Hattermann, T., Jüling, A., et al. (2023). Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. Geophysical Research Letters, 50, e2023GL106492. https://doi.org/10.1029/2023GL106492
 
 - Swart, N. C., Martin, T., Beadling, R., Chen, J.-J., Danek, C., England, M. H., Farneti, R., Griffies, S. M., Hattermann, T., Hauck, J., Haumann, F. A., Jüling, A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M.: The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design, Geosci. Model Dev., 16, 7289–7309, https://doi.org/10.5194/gmd-16-7289-2023, 2023.
