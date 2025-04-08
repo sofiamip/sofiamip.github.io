@@ -6,6 +6,8 @@
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
 
+- Kaufman, Z., Wilson, E., Purich, A., Beadling, R., & Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. https://doi.org/10.1029/2024GL112639
+
 - Pauling, A. G., Smith, I. J., Ridley, J. K., Martin, T., Thomas, M., and Stevens, D. P. (2025). Impacts of Antarctic ice mass loss on New Zealand climate. Geophysical Research Letters, 52, e2024GL111047. https://doi.org/10.1029/2024GL111047
 
 - Chen, J.-J., Swart, N. C., Beadling, R., Cheng, X., Hattermann, T., Jüling, A., et al. (2023). Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. Geophysical Research Letters, 50, e2023GL106492. https://doi.org/10.1029/2023GL106492
