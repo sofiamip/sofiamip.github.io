@@ -22,6 +22,8 @@ Downloads from the common archive are via:
 
 See the README files underneath each model for license considerations and links to upstream model data repositories (where available).
 
+Additional output may be available upon request from the individual modelling team. Please reach out to the respective contacts lisetd [here](https://sofiamip.github.io/participating-models.html).
+
 Also see the [List of know deficiencies](./data-deficiencies.html) in the data - and let us know if you find any others!
 
 **Uploading data**  
