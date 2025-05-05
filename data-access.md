@@ -24,8 +24,11 @@ See the README files underneath each model for license considerations and links 
 
 Also see the [List of know deficiencies](./data-deficiencies.html) in the data - and let us know if you find any others!
 
-Uploading data
---------------
+**Uploading data**  
 Participating modelers please contact neil [dot] swart [at] ec.gc.ca for upload instructions to the common archive.
 
+Other archives
+--------------
+Additional data may be provided by individual modeling groups. Please reach out to the contacts listed above. Some data is directly accessible through the following links:
 
+- NorESM antwater simulations by David Chandler (NORCE): [https://ns9999k.webs.sigma2.no/10.11582_2025.00060/](https://ns9999k.webs.sigma2.no/10.11582_2025.00060/)
