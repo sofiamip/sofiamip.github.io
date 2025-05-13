@@ -22,9 +22,11 @@
 - FRISP 2024, Bremerhaven, Germany
   - Hatterman, T., ???
 -->    
+- EGU 2024, Vienna, Austria
+  - **Jouet, O.**, Hauck, J., Danek, C., Haumann, A., Hattermann, T., Muilwijk, M., Pauling, A. G., Swart, N. C., and Völker, C.: Impact of additional freshwater around Antarctica on the Southern Ocean carbon cycle : an inter-model comparison, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-2563, https://doi.org/10.5194/egusphere-egu25-2563, 2025. (oral, [abstract](https://doi.org/10.5194/egusphere-egu25-2563)).
 
 - Norwegian Antarctic Seminar, Tromso, Norway (May 2024)
-  - **Muilwijk, M.**, Regional Ocean Responses to Coordinated Multi-Model Meltwater Perturbation Experiments: Insights from the SOFIA Initiative (verbal, [abstract](https://tryggve.npolar.no/WEB/Arrangementer/Antarktisseminaret-2024-book-of-abstracts.pdf))
+  - **Muilwijk, M.**, Regional Ocean Responses to Coordinated Multi-Model Meltwater Perturbation Experiments: Insights from the SOFIA Initiative (oral, [abstract](https://tryggve.npolar.no/WEB/Arrangementer/Antarktisseminaret-2024-book-of-abstracts.pdf))
 
 - EGU 2024, Vienna, Austria
   - **Pauling, A.G.**, N. Swart, T. Martin, R. Beadling, J.-J. Chen, et al., Sea ice and climate impacts from Antarctic ice-mass loss in the SOFIA multi-model ensemble (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-12592))
