@@ -22,7 +22,7 @@
 - FRISP 2024, Bremerhaven, Germany
   - Hatterman, T., ???
 -->    
-- EGU 2024, Vienna, Austria
+- EGU 2025, Vienna, Austria
   - **Jouet, O.**, Hauck, J., Danek, C., Haumann, A., Hattermann, T., Muilwijk, M., Pauling, A. G., Swart, N. C., and Völker, C.: Impact of additional freshwater around Antarctica on the Southern Ocean carbon cycle : an inter-model comparison, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-2563, https://doi.org/10.5194/egusphere-egu25-2563, 2025. (oral, [abstract](https://doi.org/10.5194/egusphere-egu25-2563)).
 
 - Norwegian Antarctic Seminar, Tromso, Norway (May 2024)
