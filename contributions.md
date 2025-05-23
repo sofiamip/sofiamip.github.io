@@ -5,15 +5,15 @@
 * add new items to top of lists so that most recent activity is seen first
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
-- Xu, X., Martin, T., Beadling, R., Liu, J., Bischof, S., Hattermann, T., Huo, W., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., Swart, N., and Thomas, M. (2025). Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. Geophys. Res. Lett., 52, e2024GL113734. https://doi.org/10.1029/2024GL113734
+- Xu, X., Martin, T., Beadling, R., Liu, J., Bischof, S., Hattermann, T., Huo, W., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., Swart, N., and Thomas, M. (2025). Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. Geophys. Res. Lett., 52, e2024GL113734. [https://doi.org/10.1029/2024GL113734](https://doi.org/10.1029/2024GL113734)
 
-- Kaufman, Z., Wilson, E., Purich, A., Beadling, R., & Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. https://doi.org/10.1029/2024GL112639
+- Kaufman, Z., Wilson, E., Purich, A., Beadling, R., & Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. [https://doi.org/10.1029/2024GL112639](https://doi.org/10.1029/2024GL112639)
 
-- Pauling, A. G., Smith, I. J., Ridley, J. K., Martin, T., Thomas, M., and Stevens, D. P. (2025). Impacts of Antarctic ice mass loss on New Zealand climate. Geophysical Research Letters, 52, e2024GL111047. https://doi.org/10.1029/2024GL111047
+- Pauling, A. G., Smith, I. J., Ridley, J. K., Martin, T., Thomas, M., and Stevens, D. P. (2025). Impacts of Antarctic ice mass loss on New Zealand climate. Geophysical Research Letters, 52, e2024GL111047. [https://doi.org/10.1029/2024GL111047](https://doi.org/10.1029/2024GL111047)
 
-- Chen, J.-J., Swart, N. C., Beadling, R., Cheng, X., Hattermann, T., Jüling, A., et al. (2023). Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. Geophysical Research Letters, 50, e2023GL106492. https://doi.org/10.1029/2023GL106492
+- Chen, J.-J., Swart, N. C., Beadling, R., Cheng, X., Hattermann, T., Jüling, A., et al. (2023). Reduced deep convection and bottom water formation due to Antarctic meltwater in a multi-model ensemble. Geophysical Research Letters, 50, e2023GL106492. [https://doi.org/10.1029/2023GL106492](https://doi.org/10.1029/2023GL106492)
 
-- Swart, N. C., Martin, T., Beadling, R., Chen, J.-J., Danek, C., England, M. H., Farneti, R., Griffies, S. M., Hattermann, T., Hauck, J., Haumann, F. A., Jüling, A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M.: The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design, Geosci. Model Dev., 16, 7289–7309, https://doi.org/10.5194/gmd-16-7289-2023, 2023.
+- Swart, N. C., Martin, T., Beadling, R., Chen, J.-J., Danek, C., England, M. H., Farneti, R., Griffies, S. M., Hattermann, T., Hauck, J., Haumann, F. A., Jüling, A., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., and Thomas, M. (2023). The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design. Geosci. Model Dev., 16, 7289–7309, [https://doi.org/10.5194/gmd-16-7289-2023](https://doi.org/10.5194/gmd-16-7289-2023)
 
 
 
