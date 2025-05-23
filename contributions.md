@@ -5,6 +5,7 @@
 * add new items to top of lists so that most recent activity is seen first
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
+- Xu, X., Martin, T., Beadling, R., Liu, J., Bischof, S., Hattermann, T., Huo, W., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., Swart, N., and Thomas, M. (2025). Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. Geophys. Res. Lett., 52, e2024GL113734. https://doi.org/10.1029/2024GL113734
 
 - Kaufman, Z., Wilson, E., Purich, A., Beadling, R., & Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. https://doi.org/10.1029/2024GL112639
 
