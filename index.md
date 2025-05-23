@@ -1,8 +1,9 @@
 # SOFIA:
 
 ## News
+- [May 2025] : **New Publication** based on SOFIA Tier 1 experiments: Xu et al. (2025) Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. GRL. https://doi.org/10.1029/2024GL113734
+- [April 2025] : **New Publication** including SOFIA simulations: Kaufman et al. (2025) The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. GRL. https://doi.org/10.1029/2024GL112639
 - [March 2025] : Meet us at [BACO25](https://baco-25.org) in Busan, Korea, 20-25 July 2025: Session **JCP05 Ice sheet-ocean interactions and impacts**
-- [February 2025] **New Publication** based on SOFIA experiments: Pauling, A. G., Smith, I. J., Ridley, J. K., Martin, T., Thomas, M., and Stevens, D. P. (2025). Impacts of Antarctic ice mass loss on New Zealand climate. Geophysical Research Letters, 52, e2024GL111047. https://doi.org/10.1029/2024GL111047
 
 ## Description
 
