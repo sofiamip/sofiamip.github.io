@@ -5,6 +5,8 @@
 * add new items to top of lists so that most recent activity is seen first
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
+- Muilwijk, M., Hattermann, T., Beadling, R. L., Swart, N. C., Nummelin, A., Guo, C., Chandler, D. M., Langebroek, P., Zhou, S., Dutrieux, P., Chen, J.-J., Danek, C., England, M. H., Griffies, S. M., Haumann, F. A., Jüling, A., Jouet, O., Li, Q., Martin, T., Marshall, J., Pauling, A. G., Purich, A., Song, Z., Smith, I. J., Thomas, M., Trombini, I., van der Linden, E., and Xu, X.: Large Regional Differences in Antarctic Ice Shelf Mass Loss from Southern Ocean Warming and Meltwater Feedbacks, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-3747](https://doi.org/10.5194/egusphere-2025-3747, 2025.
+
 - Xu, X., Martin, T., Beadling, R., Liu, J., Bischof, S., Hattermann, T., Huo, W., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., Swart, N., and Thomas, M. (2025). Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. Geophys. Res. Lett., 52, e2024GL113734. [https://doi.org/10.1029/2024GL113734](https://doi.org/10.1029/2024GL113734)
 
 - Kaufman, Z., Wilson, E., Purich, A., Beadling, R., & Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. [https://doi.org/10.1029/2024GL112639](https://doi.org/10.1029/2024GL112639)
@@ -23,11 +25,19 @@
 - FRISP 2024, Bremerhaven, Germany
   - Hatterman, T., ???
 -->    
+
+- [KITP The Future of Earth’s Polar Regions](https://www.kitp.ucsb.edu/activities/polar-c25), Santa Barbara, USA, 2025, Zhang, X., Purich, A., Deser, C., Pauling, A. G.: Robust yet diverse Southern Ocean teleconnection from Antarctic Meltwater (invited talk).
+
+- [CFMIP](https://www.cfmip.org/)-CloudSense meeting 2025, Exeter, UK: Zhang, X., Purich, A., Deser, C., Pauling, A. G., Intermodal spread of Southern Ocean teleconnection from Antarctic meltwater depends on the strength of low cloud feedback (poster).
+
 - EGU 2025, Vienna, Austria
-  - **Jouet, O.**, Hauck, J., Danek, C., Haumann, A., Hattermann, T., Muilwijk, M., Pauling, A. G., Swart, N. C., and Völker, C.: Impact of additional freshwater around Antarctica on the Southern Ocean carbon cycle : an inter-model comparison, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-2563, https://doi.org/10.5194/egusphere-egu25-2563, 2025. (oral, [abstract](https://doi.org/10.5194/egusphere-egu25-2563)).
+  - **Jouet, O.**, Hauck, J., Danek, C., Haumann, A., Hattermann, T., Muilwijk, M., Pauling, A. G., Swart, N. C., and Völker, C., Impact of additional freshwater around Antarctica on the Southern Ocean carbon cycle: an inter-model comparison, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-2563, https://doi.org/10.5194/egusphere-egu25-2563, 2025. (oral, [abstract](https://doi.org/10.5194/egusphere-egu25-2563)).
 
 - Norwegian Antarctic Seminar, Tromso, Norway (May 2024)
   - **Muilwijk, M.**, Regional Ocean Responses to Coordinated Multi-Model Meltwater Perturbation Experiments: Insights from the SOFIA Initiative (oral, [abstract](https://tryggve.npolar.no/WEB/Arrangementer/Antarktisseminaret-2024-book-of-abstracts.pdf))
+
+- AGU 2024, Washington D.C., USA
+  - **Xu, X., Martin, T., Beadling, R., Liu, J., Bischoff, S., Atmospheric adjustment to idealized freshwater forcing from Antarctica in a multi-model ensemble. (poster)
 
 - EGU 2024, Vienna, Austria
   - **Pauling, A.G.**, N. Swart, T. Martin, R. Beadling, J.-J. Chen, et al., Sea ice and climate impacts from Antarctic ice-mass loss in the SOFIA multi-model ensemble (oral, [abstract](https://doi.org/10.5194/egusphere-egu24-12592))
