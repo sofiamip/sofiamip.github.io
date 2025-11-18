@@ -1,9 +1,9 @@
 # SOFIA:
 
 ## News
-- [May 2025] : **New Publication** based on SOFIA Tier 1 experiments: Xu et al. (2025) Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. GRL. [https://doi.org/10.1029/2024GL113734](https://doi.org/10.1029/2024GL113734)
-- [April 2025] : **New Publication** including SOFIA simulations: Kaufman et al. (2025) The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. GRL. [https://doi.org/10.1029/2024GL112639](https://doi.org/10.1029/2024GL112639)
-- [March 2025] : Meet us at [BACO25](https://baco-25.org) in Busan, Korea, 20-25 July 2025: Session **JCP05 Ice sheet-ocean interactions and impacts**
+- [Nov 2025] : SOFIAMIP and TIPMIP-Ocean seek collaboration on hosing experiments; Aixue Hu (NCAR) guest speaker at monthly meeting
+- [Oct 2025] : Survey results on Southern Ocean modelling available on [Zenodo](https://doi.org/10.5281/zenodo.17289776); short paper will follow soon.
+- [Sep 2025] : Muilwijk et al. (2025) "Large Regional Differences in Antarctic Ice Shelf Mass Loss from Southern Ocean Warming and Meltwater Feedbacks" submitted to The Cryosphere, [https://doi:10.5194/egusphere-2025-3747](https://doi:10.5194/egusphere-2025-3747), discussion closed now.
 
 ## Description
 
