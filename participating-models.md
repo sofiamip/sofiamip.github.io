@@ -5,9 +5,9 @@ The following is a current list of models participating in SOFIA at different st
 | Type     | Model            | Contact        | Model&nbsp;paper | Tier&nbsp;1 | Tier&nbsp;2 | Tier&nbsp;3 |        
 |----------|------------------|----------------|---------------|---------------|---------------|---------------|
 | Coupled  | ACCESS&#x2011;ESM12&#x2011;5    | [Ariaan Purich](https://research.monash.edu/en/persons/ariaan-purich)  | [Ziehn et al. 2020](https://www.publish.csiro.au/es/es19035) | &#9989; | &#127939; | | |
-|          | AWI&#x2011;ESM&#x2011;1&#x2011;REcoM  | [Christopher Danek](https://www.awi.de/en/about-us/organisation/staff/single-view/christopher-danek.html) | [Semmler et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS002009) | &#9989; incl. BGC | | |
+|          | AWI&#x2011;ESM&#x2011;1&#x2011;REcoM  | [Christopher Danek](https://www.awi.de/en/about-us/organisation/staff/single-view/christopher-danek.html) | [Semmler et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS002009) | &#9989; incl. BGC | &#127939; | |
 |          | CanESM5          | Neil Swart     | [Swart et al. 2019](https://gmd.copernicus.org/articles/12/4823/2019/gmd-12-4823-2019.html) | &#9989; | | |
-|          | CESM2            | [Andrew Pauling](https://www.physics.otago.ac.nz/nx/ice/andrew-pauling.html) | [Danabasoglu et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001916)  | &#9989; | | |
+|          | CESM2            | [Andrew Pauling](https://www.physics.otago.ac.nz/nx/ice/andrew-pauling.html) | [Danabasoglu et al. (2020)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001916)  | &#9989; | &#9989; | |
 |          | EC&#x2011;Earth3        | André Jüling, Irene Tromboni | [Döscher et al. 2022](https://gmd.copernicus.org/articles/15/2973/2022/) | &#9989; | &#127939; | |
 |          | FOCI             | [Torge Martin](https://www.geomar.de/en/tomartin)   | [Matthes et al. 2020](https://gmd.copernicus.org/articles/13/2533) | &#9989; 8 member ensemble, hosing tracer | | &#9989; antwater-60S (8 member ensemble, hosing tracer) |
 |          | GFDL&#x2011;CM4         | Stephen Griffies, [Rebecca Beadling](https://cst.temple.edu/about/faculty-staff/rebecca-beadling) | [Held et al. 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001829) | &#9989; | | |
