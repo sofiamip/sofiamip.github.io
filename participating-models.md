@@ -19,3 +19,4 @@ The following is a current list of models participating in SOFIA at different st
 |          | NorESM2&#x2011;MM&#x2011;GrIS | [Dave Chandler](https://www.norceresearch.no/en/persons/david-matthew-chandler) | [Goelzer et al. 2025](https://gmd.copernicus.org/articles/18/7853/2025/)| &#9989; |  | |
 |          |                  |                    | | | | |
 | Ocean    | MOM5             | [Riccardo Farneti](https://www.ictp.it/member/riccardo-farneti) | [Griffies 2012](https://mom-ocean.github.io/assets/pdfs/MOM5_manual.pdf) | &#9989; | | &#9989; antwater-60S |
+|          | NEMO4.2          | Birte G&#252;lck                   | [de Lavergne et al., subm.](https://essopenarchive.org/doi/full/10.22541/essoar.173152139.95978362/v1), [G&#252;lck et al., subm.](https://www.authorea.com/users/990673/articles/1360765-the-response-of-the-global-overturning-circulation-to-recent-and-projected-antarctic-meltwater-changes) | &#9989; | | |
