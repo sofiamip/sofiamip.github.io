@@ -18,4 +18,4 @@ The following is a current list of models participating in SOFIA at different st
 |          | NorESM2&#x2011;MM        | [Tore Hattermann](https://npolar.no/en/people/tore.hattermann) | [Seland et al. 2020](https://gmd.copernicus.org/articles/13/6165/2020/) | &#9989; | | |
 |          | NorESM2&#x2011;MM&#x2011;GrIS | [Dave Chandler](https://www.norceresearch.no/en/persons/david-matthew-chandler) | [Goelzer et al. 2025](https://gmd.copernicus.org/articles/18/7853/2025/)| &#9989; |  | |
 |          |                  |                    | | | | |
-| Ocean    | MOM5             | [Riccardo Farneti](https://www.ictp.it/member/riccardo-farneti) | [Griffies 2012](https://mom-ocean.github.io/assets/pdfs/MOM5_manual.pdf) | &#9989; | | |
+| Ocean    | MOM5             | [Riccardo Farneti](https://www.ictp.it/member/riccardo-farneti) | [Griffies 2012](https://mom-ocean.github.io/assets/pdfs/MOM5_manual.pdf) | &#9989; | | &#9989; antwater-60S |
