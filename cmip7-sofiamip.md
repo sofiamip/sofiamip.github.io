@@ -1,7 +1,6 @@
 ---
 layout: page
-header:
-  logo: "/images/sofia_logo_mip_1000.png"
+logo: "/images/sofia_logo_mip_1000.png"
 ---
 
 **NB**: Draft in edit:
