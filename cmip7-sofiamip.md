@@ -1,3 +1,10 @@
+---
+layout: page
+title: About Me
+header:
+  logo: "images/sofia_logo_mip_1000.png"
+---
+
 **NB**: Draft in edit:
 
 # SOFIAMIP in CMIP7
