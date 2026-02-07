@@ -37,7 +37,7 @@ A summary of experiments is provided below:
 | hist-antwater-70-03    | Increasing by 0.3 (×10⁻³ Sv·yr⁻¹)       | 1970        | 1970-2020        | CMIP7 historical    |
 | hist-antwater-70-05    | Increasing by 0.5 (×10⁻³ Sv·yr⁻¹)       | 1970        | 1970-2020        | CMIP7 historical    |
 | hist-antwater-92-11    | Increasing by 1.1 (×10⁻³ Sv·yr⁻¹)       | 1992        | 1992-2020        | CMIP7 historical    |
-| hist-obs-water         | Observed rate from Schmidt et al (2023) | 1990        | 1990-20XX        | CMIP7 historical    |
+| hist-obs-water         | Observed rate from Schmidt et al (2025) | 1990        | 1990-2023        | CMIP7 historical    |
 
 ## Data Request
 
