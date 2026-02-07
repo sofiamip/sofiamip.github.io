@@ -2,17 +2,6 @@ remote_theme: "mmistakes/so-simple-theme"
 title: [Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative]
 logo: images/sofia_logo_initiative_1000.png
 
-description: "Southern Ocean Freshwater Input from Antarctica (SOFIA)"
+description: "Understanding climate feedbacks from Antarctic freshwater input"
 
-# This tells the theme to use the "standard" layout for posts/pages
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+
