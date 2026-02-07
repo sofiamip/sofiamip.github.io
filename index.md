@@ -1,6 +1,4 @@
-# SOFIA:
-
-## News
+# News
 
 - [Feb 2026] : SOFIAMIP will be presented at the 19 Feb CMIP7 Virtual MIP showcase: (Register [here](https://airtable.com/appGEHtbRi0wy6T0x/pag7xfALmAEMb0HBB/form))
 - [Nov 2025] : SOFIAMIP and TIPMIP-Ocean seek collaboration on hosing experiments; Aixue Hu (NCAR) guest speaker at monthly meeting
@@ -8,7 +6,7 @@
 - [Sep 2025] : Muilwijk et al. (2025) "Large Regional Differences in Antarctic Ice Shelf Mass Loss from Southern Ocean Warming and Meltwater Feedbacks" submitted to The Cryosphere, [https://doi:10.5194/egusphere-2025-3747](https://doi:10.5194/egusphere-2025-3747), discussion closed now.
 
 
-## Description
+# Description
 
 The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative aims
 to improve our understanding of the simulated response to Antarctic freshwater
@@ -26,13 +24,13 @@ is endorsed as a [CLIVAR task team](https://www.clivar.org/sofia), and is a
 registered [CMIP7 community MIP](https://wcrp-cmip.org/model-intercomparison-projects-mips/#registered-mips).
 
 
-## Organization
+# Organization
 
 The SOFIA team is made up of a collection of about 40 interested scientists. We always welcome participation from additional members and models. 
 The team has an active slack workspace, and **we meet on every second Tuesday of the month via Zoom at 20:00 (8 pm) UTC**. 
 Get in touch for details: mail.sofiamip [at] gmail [dot] com !
 
-## Protocol
+# Protocol
 
 The [SOFIA experiment protocol](https://gmd.copernicus.org/articles/16/7289/2023/) was published in Geophysical Model Development (GMD) in December 2023 and can be downloaded as [pdf document](https://gmd.copernicus.org/articles/16/7289/2023/gmd-16-7289-2023.pdf). 
 
@@ -40,7 +38,7 @@ See [SOFIAMIP for CMIP7](./cmip7-sofiamip.html) for more specific information on
 
 --------------------
 
-**Links and references**  
+# Links and references
 - [SOFIA publications and conference contributions](./contributions.html)
 - [SOFIA protocol paper](https://gmd.copernicus.org/articles/16/7289/2023/)
 - [SOFIA data access](./data-access.html)
@@ -51,6 +49,6 @@ See [SOFIAMIP for CMIP7](./cmip7-sofiamip.html) for more specific information on
 
 --------------------
 
-**Contact**  
+# Contact 
 Get in touch via email: 
 mail.sofiamip [at] gmail [dot] com
