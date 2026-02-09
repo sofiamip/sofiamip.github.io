@@ -5,6 +5,7 @@
 SOFIAMIP is a registered [CMIP7 community MIP](https://wcrp-cmip.org/mips/#registered-mips). The project will present plans to the CMIP community at the MIP virtual showcase event on 19 Feb 2026 (Register [here](https://airtable.com/appGEHtbRi0wy6T0x/pag7xfALmAEMb0HBB/form)).
 
 The SOFIA community invites all interested CMIP7 modelling centres to participate in SOFIAMIP to help understand the role of unresolved ocean-icesheet feedbacks on climate projections, and to evaluate forcing datasets for inclusion in future CMIP historical experiments.
+
 Model configurations should be those used in CMIP7 DECK. 
 
 ## SOFIAMIP experimental protocol
