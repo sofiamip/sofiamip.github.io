@@ -1,15 +1,19 @@
 # SOFIA scientific contributions
 
-### Peer-reviewed publications using SOFIA model output
+### Peer-reviewed publications based on the SOFIA suite of model experiments
 <!---
 * add new items to top of lists so that most recent activity is seen first
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
-- Muilwijk, M., Hattermann, T., Beadling, R. L., Swart, N. C., Nummelin, A., Guo, C., Chandler, D. M., Langebroek, P., Zhou, S., Dutrieux, P., Chen, J.-J., Danek, C., England, M. H., Griffies, S. M., Haumann, F. A., Jüling, A., Jouet, O., Li, Q., Martin, T., Marshall, J., Pauling, A. G., Purich, A., Song, Z., Smith, I. J., Thomas, M., Trombini, I., van der Linden, E., and Xu, X.: Large Regional Differences in Antarctic Ice Shelf Mass Loss from Southern Ocean Warming and Meltwater Feedbacks, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-3747](https://doi.org/10.5194/egusphere-2025-3747, 2025.
+- Zhang, X., Purich, A., Deser, C., and Pauling, A. (2026). Robust yet diverse tropical responses to Antarctic meltwater across models. Geophysical Research Letters, 53, e2025GL120291. [https://doi.org/10.1029/2025GL120291](https://doi.org/10.1029/2025GL120291)
+
+- Muilwijk, M., Hattermann, T., Beadling, R. L., Swart, N. C., Nummelin, A., Guo, C., Chandler, D. M., Langebroek, P. M., Zhou, S., Dutrieux, P., Chen, J.-J., Danek, C., England, M. H., Griffies, S. M., Haumann, F. A., Jüling, A., Jouet, O., Li, Q., Martin, T., Marshall, J., Pauling, A. G., Purich, A., Song, Z., Smith, I. J., Thomas, M., Trombini, I., van der Linden, E. C., and Xu, X. (2026). Large regional differences in Antarctic ice shelf mass loss from Southern Ocean warming and meltwater feedbacks, The Cryosphere, 20, 1087–1117, [https://doi.org/10.5194/tc-20-1087-2026](https://doi.org/10.5194/tc-20-1087-2026)
+
+- Mistry, A., Lunt, D., and Ren, X. (2025). Global climate system response to SOFIA Antarctic meltwater in HadCM3-M2.1, The Cryosphere, 19, 6989–7012, [https://doi.org/10.5194/tc-19-6989-2025](https://doi.org/10.5194/tc-19-6989-2025)
 
 - Xu, X., Martin, T., Beadling, R., Liu, J., Bischof, S., Hattermann, T., Huo, W., Li, Q., Marshall, J., Muilwijk, M., Pauling, A. G., Purich, A., Smith, I. J., Swart, N., and Thomas, M. (2025). Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica. Geophys. Res. Lett., 52, e2024GL113734. [https://doi.org/10.1029/2024GL113734](https://doi.org/10.1029/2024GL113734)
 
-- Kaufman, Z., Wilson, E., Purich, A., Beadling, R., & Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. [https://doi.org/10.1029/2024GL112639](https://doi.org/10.1029/2024GL112639)
+- Kaufman, Z., Wilson, E., Purich, A., Beadling, R., and Li, Y. (2025). The impact of underestimated Southern Ocean freshening on simulated historical sea surface temperature trends. Geophysical Research Letters, 52, e2024GL112639. [https://doi.org/10.1029/2024GL112639](https://doi.org/10.1029/2024GL112639)
 
 - Pauling, A. G., Smith, I. J., Ridley, J. K., Martin, T., Thomas, M., and Stevens, D. P. (2025). Impacts of Antarctic ice mass loss on New Zealand climate. Geophysical Research Letters, 52, e2024GL111047. [https://doi.org/10.1029/2024GL111047](https://doi.org/10.1029/2024GL111047)
 
