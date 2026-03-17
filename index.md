@@ -1,10 +1,8 @@
 # News
 
-- [Feb 2026] : SOFIAMIP will be presented at the 19 Feb CMIP7 Virtual MIP showcase: (Register [here](https://airtable.com/appGEHtbRi0wy6T0x/pag7xfALmAEMb0HBB/form))
+- [Mar 2026] : New publication by Zhang, Purich, Deser, and Pauling: Robust yet diverse tropical responses to Antarctic meltwater across models. GRL, [https://doi.org/10.1029/2025GL120291](https://doi.org/10.1029/2025GL120291)
+- [Feb 2026] : SOFIAMIP for CMIP7 presented at virtual MIP showcase, see the [event recording and slide deck](https://wcrp-cmip.org/event/mip-virtual-showcase-session-3a/)
 - [Nov 2025] : SOFIAMIP and TIPMIP-Ocean seek collaboration on hosing experiments; Aixue Hu (NCAR) guest speaker at monthly meeting
-- [Oct 2025] : Survey results on Southern Ocean modelling available on [Zenodo](https://doi.org/10.5281/zenodo.17289776); short paper will follow soon.
-- [Sep 2025] : Muilwijk et al. (2025) "Large Regional Differences in Antarctic Ice Shelf Mass Loss from Southern Ocean Warming and Meltwater Feedbacks" submitted to The Cryosphere, [https://doi:10.5194/egusphere-2025-3747](https://doi:10.5194/egusphere-2025-3747), discussion closed now.
-
 
 # Description
 
