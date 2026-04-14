@@ -1,10 +1,12 @@
 # SOFIA scientific contributions
 
-### Peer-reviewed publications based on the SOFIA suite of model experiments
+### Peer-reviewed publications based on the SOFIA freshwater forcing and/or suite of model simulations
 <!---
 * add new items to top of lists so that most recent activity is seen first
 * no default syntax, simply copy-paste the "how-to-cite" line from the publication:
 -->
+- Pauling, A. G., Smith, I. J., Martin, T., Ridley, J. K., Stevens, D. P., Thomas, M., Beadling, R. L., Danek, C., Hattermann, T., Li, Q., Marshall, J., Muilwijk, M., Purich, A., and Swart, N. C. (2026) Antarctic sea ice response to meltwater due to Antarctic ice sheet mass loss in a multi-model ensemble, EGUsphere [preprint]. [https://doi.org/10.5194/egusphere-2026-658](https://doi.org/10.5194/egusphere-2026-658)
+
 - Zhang, X., Purich, A., Deser, C., and Pauling, A. (2026). Robust yet diverse tropical responses to Antarctic meltwater across models. Geophysical Research Letters, 53, e2025GL120291. [https://doi.org/10.1029/2025GL120291](https://doi.org/10.1029/2025GL120291)
 
 - Muilwijk, M., Hattermann, T., Beadling, R. L., Swart, N. C., Nummelin, A., Guo, C., Chandler, D. M., Langebroek, P. M., Zhou, S., Dutrieux, P., Chen, J.-J., Danek, C., England, M. H., Griffies, S. M., Haumann, F. A., Jüling, A., Jouet, O., Li, Q., Martin, T., Marshall, J., Pauling, A. G., Purich, A., Song, Z., Smith, I. J., Thomas, M., Trombini, I., van der Linden, E. C., and Xu, X. (2026). Large regional differences in Antarctic ice shelf mass loss from Southern Ocean warming and meltwater feedbacks, The Cryosphere, 20, 1087–1117, [https://doi.org/10.5194/tc-20-1087-2026](https://doi.org/10.5194/tc-20-1087-2026)
