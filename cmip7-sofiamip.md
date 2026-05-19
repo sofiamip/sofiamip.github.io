@@ -1,12 +1,12 @@
-**NB**: Draft in edit:
-
 # SOFIAMIP in CMIP7
 
-SOFIAMIP is a registered [CMIP7 community MIP](https://wcrp-cmip.org/mips/#registered-mips). The project will present plans to the CMIP community at the MIP virtual showcase event on 19 Feb 2026 (Register [here](https://airtable.com/appGEHtbRi0wy6T0x/pag7xfALmAEMb0HBB/form)).
+SOFIAMIP is a registered [CMIP7 community MIP](https://wcrp-cmip.org/mips/#registered-mips). The project was presented to the CMIP community at the MIP virtual showcase event on 19 Feb 2026 (slides and recordings are available [here](https://wcrp-cmip.org/mips/#registered-mips) as "Related content: MIP virtual showcase – session [3a](https://wcrp-cmip.org/event/mip-virtual-showcase-session-3a/) & [3b](https://wcrp-cmip.org/event/mip-virtual-showcase-session-3b/)".
 
 The SOFIA community invites all interested CMIP7 modelling centres to participate in SOFIAMIP to help understand the role of unresolved ocean-icesheet feedbacks on climate projections, and to evaluate forcing datasets for inclusion in future CMIP historical experiments.
 
 Model configurations should be those used in CMIP7 DECK. 
+
+Please contact us via email (mail.sofiamip [at] gmail [dot] com) when interested in running these experiments.
 
 ## SOFIAMIP experimental protocol
 
@@ -30,6 +30,8 @@ A summary of experiments is provided below:
 | **Tier-2**             |                                         |             |                  |                     |
 | hist-antwater-92-11    | Increasing by 1.1 (×10⁻³ Sv·yr⁻¹)       | 1992        | 1992-2020        | CMIP7 historical    |
 | hist-obs-water         | Observed rate from Schmidt et al (2025) | 1990        | 1990-2023        | CMIP7 historical    |
+
+Once Antarctic ice sheet mass loss (i.e. freshwayer fluxes) will become available from [ISMIP7](https://www.ismip.org/research/ismip7-timeline), an extension of Tier 2 for projections running to 2100 is envisioned. The specific climate scenario and freshwater forcing applied will then be discussed with groups involved with SOFIAMIP.
 
 ## Data Request
 
