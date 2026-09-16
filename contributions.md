@@ -7,7 +7,7 @@
 -->
 - Gülk, B., de Lavergne, C., Sallée, J.-B., Madec, G., Rousset, C., Abelló, A. O., & Coulon, V. (2026). The response of the global overturning circulation to recent and projected Antarctic meltwater changes. Journal of Geophysical Research: Oceans, 131, e2026JC024622. https://doi.org/10.1029/2026JC024622
 
-- Pauling, A. G., Smith, I. J., Martin, T., Ridley, J. K., Stevens, D. P., Thomas, M., Beadling, R. L., Danek, C., Hattermann, T., Li, Q., Marshall, J., Muilwijk, M., Purich, A., and Swart, N. C. (2026). Antarctic sea ice response to meltwater due to Antarctic ice sheet mass loss in a multi-model ensemble, EGUsphere [preprint]. [https://doi.org/10.5194/egusphere-2026-658](https://doi.org/10.5194/egusphere-2026-658)
+- Pauling, A. G., Smith, I. J., Martin, T., Ridley, J. K., Stevens, D. P., Thomas, M., Beadling, R. L., Danek, C., Hattermann, T., Li, Q., Marshall, J., Muilwijk, M., Purich, A., and Swart, N. C. (2026). Antarctic sea ice response to meltwater due to Antarctic ice sheet mass loss in a multi-model ensemble, EGUsphere [preprint], *accepted*. [https://doi.org/10.5194/egusphere-2026-658](https://doi.org/10.5194/egusphere-2026-658)
 
 - Zhang, X., Purich, A., Deser, C., and Pauling, A. (2026). Robust yet diverse tropical responses to Antarctic meltwater across models. Geophysical Research Letters, 53, e2025GL120291. [https://doi.org/10.1029/2025GL120291](https://doi.org/10.1029/2025GL120291)
 
@@ -33,6 +33,8 @@
 - FRISP 2024, Bremerhaven, Germany
   - Hatterman, T., ???
 -->    
+- SCAR OSC 2026, Oslo, Norway
+  - Pauling, A.G., **Smith, I.J.**, Martin, T., Ridley, J.K., Stevens, D.P., Thomas, M., Swart, N.C., Beadling, R.L., Muilwijk, M., Purich, A., Li, Q., Marshall, J. Antarctic sea ice responses to Antarctic ice sheet mass loss in the “SOFIA” multi-model ensemble, Scientific Committee on Antarctic Research (SCAR) Open Science Conference, Oslo, Norway, 8-19 August 2026 (verbal presentation).
 
 - [KITP The Future of Earth’s Polar Regions](https://www.kitp.ucsb.edu/activities/polar-c25), Santa Barbara, USA, 2025, Zhang, X., Purich, A., Deser, C., Pauling, A. G.: Robust yet diverse Southern Ocean teleconnection from Antarctic Meltwater (invited talk).
 
